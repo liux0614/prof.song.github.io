@@ -16,7 +16,7 @@
             <svg class="icon icon-google"><use xlink:href="#icon-google"></use></svg>
         </a>
     {% endif %}
-
+ {% if site.orcid %}<a href="http://orcid.org/{{ site.orcid }}" class="link" target="_blank"><i class="ai ai-fw ai-orcid"></i> Orcid</a>{% endif %}
     {% if site.instagram %}
         <a class="link" data-title="instagram.com/{{ site.instagram }}" href="http://instagram.com/{{ site.instagram }}" target="_blank">
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
