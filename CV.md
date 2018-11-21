@@ -4,30 +4,30 @@ Layout: Page
 ---
 # Experience
 ## Education
-**Master of Information** | Library & Information Science *University of Toronto Faculty of Information* `2016`
+**Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
 
-**Honours Bachelor of Arts** | English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014` 
+**Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014` 
 
 ## Employment
 ### Currently
-**Program Coordinator** | eCampusOntario
+**Program Coordinator**, eCampusOntario
 
 ### Previously
-**Research & Scholarly Communications Librarian** | Western University Libraries `2017 - 2018`
+**Research & Scholarly Communications Librarian**, Western University Libraries `2017 - 2018`
 
-**Donald E. Moreland Library Fellow/Librarian** | North Carolina State University Libraries `2016 - 2017`
+**Donald E. Moreland Library Fellow/Librarian**, North Carolina State University Libraries `2016 - 2017`
 * Copyright & Digital Scholarship Centre
 * User Experience Department
 
-**Institutional Repositories GSLA** | University of Toronto Libraries `2015 - 2016` 
+**Institutional Repositories GSLA**, University of Toronto Libraries `2015 - 2016` 
 * Information Technology Services Department
 
-**Scholarly Communications and Copyright GSLA** | University of Toronto Libraries `2014 - 2016`
+**Scholarly Communications and Copyright GSLA**, University of Toronto Libraries `2014 - 2016`
 * Scholarly Communications and Copyright Office, Office of the Chief Librarian
 
-**Access and Information Services SLA** | University of Toronto Libraries `2013 - 2015` 
+**Access and Information Services SLA**, University of Toronto Libraries `2013 - 2015` 
 
-**Hiring and Training Supervisor** | University of Toronto Telefund `2012 - 2013`
+**Hiring and Training Supervisor**, University of Toronto Telefund `2012 - 2013`
 
 ## Grants, Scholarships, & Awards
 `2018` Diversity, Equity, and Inclusion Scholarship, Open Textbook of Scholarly Communication Librarianship Unconference - SPARC/ACRL
