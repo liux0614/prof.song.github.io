@@ -38,19 +38,19 @@ layout: page
 * Zero to Low Cost Course Pilot Project: Increasing Access to Course Materials through Library Services  - Rigling, L., & Pietropaolo-DeMarco, T. Toronto Ryerson York Library Staff Conference, May 2015 (Poster).
 
 ## Invited Talks and Workshops
-* Building Community, Building Capacity, Rigling, L., Belt and Road International Community for Open Educational Resources (BRICOER) Open Education Learning Week,  Bejing Normal University, June 2018
-* Drafting Scholarly Communication Learning Objectives using Design Thinking (session facilitator), Open Textbook of Scholarly Communication Librarianship Unconference, April 2018.
-* Finding and Evaluating Open Educational Resources. Rigling,L., Anstey, L., & Sich, D. - Open Education Day at Western, November 2017
-* Open Educational Resources. Rigling, L. & Cross, W.,  NC LIVE 2017 Annual Meeting NCLIVE May 2017.
-* Data Use Agreements and Open Data (workshop), Alpi, K., Rigling, L., & Cross, W. - Data Science & Visualization Institute for Librarians, Coalition for Networked Information, April 2017
-* Think Like a Lawyer, Steal Like an Artist. Cross, W. & Rigling, L., NC State Faculty of Design Lecture, April 2017
-* Copyright & Fair Use - Rigling, L., Instructional Design Interest Group Greet & Grow, NC State DELTA (Distance Education and Learning Technology Applications), March 2017
-* From Twitter to Tenure and Everything in Between: Managing and Measuring your Scholarly Identity, Rigling, L. & Cross, W.,  Faculty Writing Retreat, Spring Break, NCSU Office of Faculty Development, March 2017.
-* Using Fair Use to Preserve and Share Disappearing Government Information: A Guide for Rogue Librarians (Webinar). Cross, W. & Rigling, L., ACRL Presents: Celebrating Fair Use/Fair Dealing Week, February 2017
-* Open Education that Opens a Door to the Libraries.  Cross, W. & Rigling, L.,  ScholComm on the Edge: Duke University Libraries, January 2017
-* What Faculty Need to Know about Copyright & Publishing. Rigling, L. Faculty Writing Retreat, Fall Break, NCSU Office of Faculty Development, October 2016
+* [Building Community, Building Capacity](https://vimeo.com/277386214) (webinar), Belt and Road International Community for Open Educational Resources (BRICOER) Open Education Learning Week,  Bejing Normal University, June 2018
+* Drafting Scholarly Communication Learning Objectives using Design Thinking, Open Textbook of Scholarly Communication Librarianship Unconference, April 2018.
+* Finding and Evaluating Open Educational Resources, Open Education Day at Western, November 2017
+* Open Educational Resources, NC LIVE 2017 Annual Meeting NCLIVE May 2017.
+* Data Use Agreements and Open Data (workshop), Data Science & Visualization Institute for Librarians, Coalition for Networked Information, April 2017
+* Think Like a Lawyer, Steal Like an Artist. NC State Faculty of Design Lecture, April 2017
+* Copyright & Fair Use, Instructional Design Interest Group Greet & Grow, NC State DELTA (Distance Education and Learning Technology Applications), March 2017
+* From Twitter to Tenure and Everything in Between: Managing and Measuring your Scholarly Identity, Faculty Writing Retreat, NCSU Office of Faculty Development, March 2017.
+* [Using Fair Use to Preserve and Share Disappearing Government Information: A Guide for Rogue Librarians](https://www.youtube.com/watch?v=HshaUm7a0pE&t=91s) (Webinar). ACRL Presents: Celebrating Fair Use/Fair Dealing Week, February 2017
+* Open Education that Opens a Door to the Libraries, ScholComm on the Edge: Duke University Libraries, January 2017
+* What Faculty Need to Know about Copyright & Publishing. Faculty Writing Retreat, NCSU Office of Faculty Development, October 2016
 
 ## Teaching Experience
-* The Basics and Beyond: Developing a Critical, Community-Based Approach to Open Education (5 day core course) - Hare, S., Rigling, L., & Versluis, A. - Force11 Scholarly Communications Institute, July- August 2018
-* Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice (2 day elective course) - Cross, W., Waller, M., & Rigling, L. - Force11 Scholarly Communications Institute, July-August 2017
-* Applying Design Thinking and User Research to the Scholarly Communication Problem Space (2 day elective course) - Grguric, E., Rigling, L., & Cross, W. - Force11 Scholarly Communications Institute, July-August 2017
+* [The Basics and Beyond: Developing a Critical, Community-Based Approach to Open Education](https://docs.google.com/document/d/1LCDrftjev4VSPY0V3lD6OGkD_GGwgqMYiktKsCaN7qc/edit#heading=h.3e8s92ceglc) (5 day core course) - Hare, S., Rigling, L., & Versluis, A. - Force11 Scholarly Communications Institute, July- August 2018
+* [Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice](https://docs.google.com/document/d/1G6oaX5xe3rDX2_CzHtgCAsEC7wRE7vNzJr2QArQDaz4/edit#heading=h.30j0zll) (2 day elective course) - Cross, W., Waller, M., & Rigling, L. - Force11 Scholarly Communications Institute, July-August 2017
+* [Applying Design Thinking and User Research to the Scholarly Communication Problem Space](https://docs.google.com/document/d/1QA9CJuv3VGCUaawM02NCPFxbYJIlN5HD5ixTqMg5Q78/edit) (2 day elective course) - Grguric, E., Rigling, L., & Cross, W. - Force11 Scholarly Communications Institute, July-August 2017
