@@ -1,6 +1,6 @@
 ---
 title: Writing
-layout: Page
+layout: page
 ---
 ## Book Chapters
 * Rigling L., & Cross, W. (in press). Sustainability and Expansion in Cohen, S. (Ed.) Establishing an Open Education Mini-Grant Program, Open Textbook Network
@@ -15,6 +15,6 @@ layout: Page
 * Thompson, S., Rigling, L., Cross, W., & Vickery, J., (2017). Data-Informed Open Education Advocacy:  A New Approach to Saving Students Money and  Backaches. Journal of Access Services,  14(3),  118-125. DOI: 10.1080/15367967.2017.1333911
 
 ## Other Media
-* “Digital Literacy Pop-Ups Toolkit” Goldhawk, M., Johnson, E., & Rigling, L. 
-* “Meeting the Commons” - Rigling, L. (2017) Creative Commons Blog (invited blog post)
-* “Digital Scholarship, Networked Scholarship, and Other Side Effects of Open” - Rigling, L. (2016). Open Book Publishers Blog (invited blog post).
+* [“Digital Literacy Pop-Ups Toolkit”](digitalliteracy.info) Goldhawk, M., Johnson, E., & Rigling, L. 
+* [“Meeting the Commons”](https://creativecommons.org/2017/05/18/meeting-the-commons/)Rigling, L. (2017) Creative Commons Blog (invited blog post)
+* [“Digital Scholarship, Networked Scholarship, and Other Side Effects of Open”](http://blogs.openbookpublishers.com/538-2/) Rigling, L. (2016). Open Book Publishers Blog (invited blog post).
