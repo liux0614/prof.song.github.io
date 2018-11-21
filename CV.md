@@ -1,5 +1,5 @@
 ---
-Title: Resume
+Title: CV
 Layout: Page
 ---
 # Education
