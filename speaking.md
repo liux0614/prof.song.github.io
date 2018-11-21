@@ -15,7 +15,7 @@ layout: page
 * Exploring Models for Independent & Collaborative OER Publishing, (Panelist) Luke, J., Lauritsen, K., Rigling, L., & Brown, A., Open Education Conference 2018, October 2018.
 * OER Publishing and Open Source: eCampusOntario, Pressbooks, and DSPACE, McGuire, H., & Rigling, L., Open Education Conference 2018, October 2018. (poster)
 * “This was actually fun!”: Engaging Users in Conversations about Digital Literacy, Rigling, L., Johnson, E., & Goldhawk, M., Workshop for Instruction in Library Use (WILU) 2018, June 2018.
-* Open By Default? Concept-Mapping Our Way to Open Access Consensus, Carlisle, E., Rigling, L., Waugh, C. & Paterson, J., Ontario Library Association Superconference, February 2018. (poster)
+* [Open By Default? Concept-Mapping Our Way to Open Access Consensus](https://ir.lib.uwo.ca/wlpres/60/), Carlisle, E., Rigling, L., Waugh, C. & Paterson, J., Ontario Library Association Superconference, February 2018. (poster)
 
 ### 2017
 * How can we tell a different story? Challenges and Opportunities for Altmetrics Outreach, Versluis, A., Rigling, L., & Hare, S., 4:AM Altmetrics Conference, September 2017.
