@@ -22,7 +22,12 @@
             <svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg>
         </a>
     {% endif %}
-
+    {% if site.orcid %}
+        <a href="http://orcid.org/{{ site.orcid }}" target="_blank">
+            <svg class="icon icon-orcid"><use xlink:href="#icon-orcid"></use></svg>
+        </a>
+    {% endif %}
+   
     {% if site.pinterest %}
         <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
