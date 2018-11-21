@@ -2,6 +2,8 @@
 title: Writing
 layout: page
 ---
+# Writing
+
 ## Book Chapters
 * Rigling L., & Cross, W. (in press). Sustainability and Expansion in Cohen, S. (Ed.) Establishing an Open Education Mini-Grant Program, Open Textbook Network
 * Rigling, L., & Cross, W. (in press). Getting to Know You: How We Turned Community Knowledge into Open Advocacy in Wesolek, A., Lashley, J., & Langley, A. (Eds.). OER: A Field Guide for Academic Librarians, Pacific University Press.
