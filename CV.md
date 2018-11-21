@@ -4,14 +4,9 @@ Layout: Page
 ---
 # Experience
 ## Education
-`2016` **Master of Information** | Library & Information Science
+**Master of Information** | Library & Information Science *University of Toronto Faculty of Information* `2016`
 
-*University of Toronto Faculty of Information*
-
-
-`2014` **Honours Bachelor of Arts** | English, Writing & Rhetoric
-
-*University of Toronto Faculty of Arts & Science*
+**Honours Bachelor of Arts** | English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014` 
 
 ## Employment
 ### Currently
