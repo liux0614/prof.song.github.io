@@ -9,12 +9,14 @@ layout: page
 ### 2019
 * Making Music, Uncovering Copyright, Hogendoorn, L., Groth, J.E., & Cross, W. Association of College and Research Libraries 2019, April 2019.
 * From Open Education to Social Justice: Making the Leap, (Panelist) Brander, L., Hogendoorn, L., Daniels, C., & Tucker, A. Ontario Library Association Superconference 2019, January 2019.
+
 ### 2018
 * DIY Digital Advocacy, Rigling, L., Johnson, E., & Goldhawk, M., Digital Citizenship Summit Toronto, October 2018.
 * Exploring Models for Independent & Collaborative OER Publishing, (Panelist) Luke, J., Lauritsen, K., Rigling, L., & Brown, A., Open Education Conference 2018, October 2018.
 * OER Publishing and Open Source: eCampusOntario, Pressbooks, and DSPACE, McGuire, H., & Rigling, L., Open Education Conference 2018, October 2018. (poster)
 * “This was actually fun!”: Engaging Users in Conversations about Digital Literacy, Rigling, L., Johnson, E., & Goldhawk, M., Workshop for Instruction in Library Use (WILU) 2018, June 2018.
 * Open By Default? Concept-Mapping Our Way to Open Access Consensus, Carlisle, E., Rigling, L., Waugh, C. & Paterson, J., Ontario Library Association Superconference, February 2018. (poster)
+
 ### 2017
 * How can we tell a different story? Challenges and Opportunities for Altmetrics Outreach, Versluis, A., Rigling, L., & Hare, S., 4:AM Altmetrics Conference, September 2017.
 * Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your Students Will Care About, Cross, W., Keener, M. & Rigling, L., Kraemer Copyright Conference, June 2017.
@@ -25,11 +27,13 @@ layout: page
 * Let Your Conscience Be Your Guide: Taming Online Research Guides at the NCSU Libraries – Rigling, L., & Orphanides, A., Human-Centered Libraries: Crafting Value and Relevance (LAUNC-CH 2017), March 2017.
 * Understanding Student Behavior to Support Student Success: Two Empirical Lenses for an Impactful Open Education Program, Cross, W., Rigling, L., & Grguric, E., Empirical Librarians Conference, February 2017.
 * What Can I Do with That Code?: Understanding Open Source Licenses in the Wild, Rigling, L., Khan, N., & Cross, W. - OpenSource101 (All Things Open), February 2017.
+
 ### 2016
 * Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education (lightning talk), Rigling, L., OpenCon, November 2016.
 * Library Usage as a Map for Targeting OER Advocacy & Growth, Raschke, G., Cross, W., Thompson, S., Vickery, J., & Rigling, L., The 13th Annual Open Education Conference, November 2016.
 * Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual Pornography – Rigling, L., & Clarkson, A., Oxford Internet Institute Internet, Policy, & Politics Conference, September 2016.
 * Accessing Academic Integrity: Supporting undergraduate students through Policy Rebranding and Outreach, Clarkson, A., Fratarcangeli, B., Moffat, C., Rigling, L., & Sparling, A., Ontario Library Association Superconference, January 2016 (Poster).
+
 ### 2015
 * Zero to Low Cost Course Pilot Project: Increasing Access to Course Materials through Library Services  - Rigling, L., & Pietropaolo-DeMarco, T. Toronto Ryerson York Library Staff Conference, May 2015 (Poster).
 
