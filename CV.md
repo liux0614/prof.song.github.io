@@ -5,9 +5,12 @@ Layout: Page
 # Experience
 ## Education
 `2016` **Master of Information** | Library & Information Science
- *University of Toronto Faculty of Information*
+
+*University of Toronto Faculty of Information*
+
 
 `2014` **Honours Bachelor of Arts** | English, Writing & Rhetoric
+
 *University of Toronto Faculty of Arts & Science*
 
 ## Employment
@@ -27,7 +30,7 @@ Layout: Page
 `2014 - 2016` **Scholarly Communications and Copyright GSLA** | University of Toronto Libraries
 * Scholarly Communications and Copyright Office, Office of the Chief Librarian
 
-`2013 - 2015` **Access and Information Services SLA** | University of Toronto Libraries
+`2013 - 2015` **Access and Information Services SLA** || University of Toronto Libraries
 
 `2012 - 2013` **Hiring and Training Supervisor** | University of Toronto Telefund
 
