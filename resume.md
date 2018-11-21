@@ -1,8 +1,7 @@
-layout: page 
-title: Resume
-
-----------
-
+---
+Title: Resume
+Layout: Page
+---
 # Education
 # Experience
 ## Currently
