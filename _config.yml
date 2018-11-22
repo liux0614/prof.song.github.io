@@ -19,7 +19,7 @@ resume-url: CV
 url: https://lillian-hogendoorn.info
 # your url: http://USERNAME.github.io
 
-permalink: /
+permalink: pretty
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
