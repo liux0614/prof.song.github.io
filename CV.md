@@ -61,19 +61,24 @@ Journal of Librarianship and Scholarly Communication, Ubiquity Press
 ### Local/Regional
 Ontario Consortium of University Libraries
 * OER White Paper Working Group
+
 Western University
 * Open Education Working Group Co-Chair
+
 Western Libraries
 * Scholarly Communication Subcommittee Co-Chair
 * Research Metrics Subcommittee
 * Research Support Standing Committee
+
 NCSU Libraries		         
 * Instruction & e-Learning Team
 * User Research Team, Principal Investigator
 * Staff Learning and Development Committee, Staff to Committee
+
 Alt-Textbook Committee
 * Co-chair
 * Open Education Expert
+
 University of Toronto Faculty of Information
 * iSchool Student Conference: 2016 Conference Co-Chair: Marketing and Online Communications
 * Admissions: Invited speaker and student life rep – Prospective & Admitted Student Days.
@@ -83,6 +88,7 @@ University of Toronto Faculty of Information
   * Social Committee Co-Chair (2015-16)
   * Graduate Student Union Representative  - UTGSU Grievance Working Group (2014-15)
   * Class Representative (2014-15)
+
 University of Toronto Libraries
 * 2015 Copyright in Canada Conference, Organizing committee
 
@@ -90,5 +96,5 @@ University of Toronto Libraries
 Creative Commons Certificate (Beta): Creative Commons  
 Automate the Boring Stuff with Python: Udemy
 A Crash Course in Data Science: Johns Hopkins University on Coursera
-CopyrightX: HarvardX/Berkman Klein Center for Internet & Society 
+CopyrightX: HarvardX/Berkman Klein Center for Internet & Society
 Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
