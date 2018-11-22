@@ -48,13 +48,17 @@ Layout: Page
 ### National/International
 Canadian Association of Research Libraries
 * Strengthening Capacity Committee’s Core Competencies Working Group
+
 The Idealis
 * Contributing Editor
+
 OpenCon, SPARC & Right 2 Research Coalition
 * Satellite organizer, OpenCon 2017: NC Student Leaders, April 2017
 * Application review team, OpenCon 2017
+
 Triangle Scholarly Communications Institute, Mellon Foundation
 * Staff and facilitator (2016 Triangle SCI)
+
 Journal of Librarianship and Scholarly Communication, Ubiquity Press
 * Reviewer
 
@@ -93,8 +97,8 @@ University of Toronto Libraries
 * 2015 Copyright in Canada Conference, Organizing committee
 
 ## Additional Training
-Creative Commons Certificate (Beta): Creative Commons  
-Automate the Boring Stuff with Python: Udemy
-A Crash Course in Data Science: Johns Hopkins University on Coursera
-CopyrightX: HarvardX/Berkman Klein Center for Internet & Society
-Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
+* Creative Commons Certificate (Beta): Creative Commons  
+* Automate the Boring Stuff with Python: Udemy
+* A Crash Course in Data Science: Johns Hopkins University on Coursera
+* CopyrightX: HarvardX/Berkman Klein Center for Internet & Society
+* Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
