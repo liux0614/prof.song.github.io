@@ -33,3 +33,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 * Proven success building community partnerships through outreach initiatives.
 * Curriculum design & instruction experience for in-class, virtual, and workshop-based instruction. 
 
+*I live and work on the unceded land of the Anishinabewaki, Huron-Wendat, and Haudenosauneega peoples.*
