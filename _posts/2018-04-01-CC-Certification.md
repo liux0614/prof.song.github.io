@@ -1,7 +1,7 @@
 ---
 title: Participating in the Creative Commons Certification Course
 layout: post
-date: 2017-04-01 9:00
+date: 2018-04-01 9:00
 image: false
 headerImage: false
 tag:
