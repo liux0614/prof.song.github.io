@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 # Hello!
-<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"  align="left" style="max-width:300px;">
+<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"  border="5" align="left" style="max-width:300px;">
     
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -19,7 +19,6 @@ consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<hr>
 
 ## Skills
 ### Technical Skills
