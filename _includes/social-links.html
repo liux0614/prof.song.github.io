@@ -10,12 +10,6 @@
             <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
         </a>
     {% endif %}
-
-    {% if site.googlescholar %}
-        <a class="link" data-title="scholar.google.com/citations?user={{ site.google }}" href="https://scholar.google.com/citations?user={{ site.google }}" target="_blank">
-            <svg class="icon icon-googlescholar"><use xlink:href="#icon-googlescholar"></use></svg>
-        </a>
-    {% endif %}
     
     {% if site.google %}
         <a class="link" data-title="plus.google.com/+{{ site.google }}" href="http://plus.google.com/+{{ site.google }}" target="_blank">
@@ -86,7 +80,13 @@
             <svg class="icon icon-quora"><use xlink:href="#icon-quora"></use></svg>
         </a>
     {% endif %}
-
+    
+ {% if site.googlescholar %}
+        <a class="link" data-title="scholar.google.com/citations?user={{ site.google }}" href="https://scholar.google.com/citations?user={{ site.google }}" target="_blank">
+            <svg class="icon icon-googlescholar"><use xlink:href="#icon-googlescholar"></use></svg>
+        </a>
+    {% endif %}
+    
     {% if site.reddit %}
         <a class="link" data-title="reddit.com/user/{{ site.reddit }}" href="https://www.reddit.com/user/{{ site.reddit }}" target="_blank">
             <svg class="icon icon-reddit"><use xlink:href="#icon-reddit"></use></svg>
