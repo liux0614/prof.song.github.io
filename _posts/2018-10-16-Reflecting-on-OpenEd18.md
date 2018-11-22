@@ -1,7 +1,7 @@
 ---
 title: Putting our Values into Practice - Reflections on OpenEd18
 layout: post
-date: 2017-10-16 11:30
+date: 2018-10-16 11:30
 image: false
 headerImage: false
 star: true
