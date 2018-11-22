@@ -16,10 +16,10 @@ resume: true
 resume-external: false
 resume-url: CV
 
-url: https://lillian-rigling.github.io/indigo
+url: https://lillian-hogendoorn.info
 # your url: http://USERNAME.github.io
 
-permalink: /indigo/
+permalink: /
 
 # To enable google analytics, supply your token below
 # analytics-google: 'UA-MYANALYTICS'
