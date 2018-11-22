@@ -9,6 +9,7 @@ tag:
 - Creative Commons
 - Open Licenses
 - Community
+category: blog
 author: lillianhogendoorn
 description: I came to Creative Commons looking for an in, but the door was always open.
 ---

@@ -9,6 +9,7 @@ tag:
 - Open Science
 - Open Access
 - Open Education
+category: blog
 author: lillianhogendoorn
 description: Reflections on the 2016 OpenCon in Washington, D.C.
 ---

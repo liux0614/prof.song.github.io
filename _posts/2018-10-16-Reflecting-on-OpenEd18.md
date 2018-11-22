@@ -10,6 +10,7 @@ tag:
 - Open Education
 - Equity
 - Privilege
+category: blog
 author: lillianhogendoorn
 description: This is a movement still steered largely by the woke and privileged.
 ---
