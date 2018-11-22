@@ -6,7 +6,7 @@ Layout: Page
 ## Education
 **Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
 
-**Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014` 
+**Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
 ### Currently
@@ -19,13 +19,13 @@ Layout: Page
 * Copyright & Digital Scholarship Centre
 * User Experience Department
 
-**Institutional Repositories GSLA**, University of Toronto Libraries `2015 - 2016` 
+**Institutional Repositories GSLA**, University of Toronto Libraries `2015 - 2016`
 * Information Technology Services Department
 
 **Scholarly Communications and Copyright GSLA**, University of Toronto Libraries `2014 - 2016`
 * Scholarly Communications and Copyright Office, Office of the Chief Librarian
 
-**Access and Information Services SLA**, University of Toronto Libraries `2013 - 2015` 
+**Access and Information Services SLA**, University of Toronto Libraries `2013 - 2015`
 
 **Hiring and Training Supervisor**, University of Toronto Telefund `2012 - 2013`
 
@@ -36,10 +36,59 @@ Layout: Page
 
 `2017` Open Textbook Toolkit, Grant- Institute of Museum & Library Services (IMLS LG-72-17-0051-17), co-author ($49,958.00)
 
-`2016` Second Runner Up, World Usability Day, Triangle User Experience Professionals Association 
+`2016` Second Runner Up, World Usability Day, Triangle User Experience Professionals Association
 
 `2016` OpenCon 2016 Scholarship, Scholarly Publishing and Academic Resources Coalition
 
 `2016` Staff Team Appreciation and Recognition Award, Ongoing Excellence (TSpace Team), University of Toronto Libraries
 
 `2016` Outstanding Student Contribution Award, Faculty of Information Alumni Association
+
+## Professional Service
+### National/International
+Canadian Association of Research Libraries
+* Strengthening Capacity Committee’s Core Competencies Working Group
+The Idealis
+* Contributing Editor
+OpenCon, SPARC & Right 2 Research Coalition
+* Satellite organizer, OpenCon 2017: NC Student Leaders, April 2017
+* Application review team, OpenCon 2017
+Triangle Scholarly Communications Institute, Mellon Foundation
+* Staff and facilitator (2016 Triangle SCI)
+Journal of Librarianship and Scholarly Communication, Ubiquity Press
+* Reviewer
+
+### Local/Regional
+Ontario Consortium of University Libraries
+* OER White Paper Working Group
+Western University
+* Open Education Working Group Co-Chair
+Western Libraries
+* Scholarly Communication Subcommittee Co-Chair
+* Research Metrics Subcommittee
+* Research Support Standing Committee
+NCSU Libraries		         
+* Instruction & e-Learning Team
+* User Research Team, Principal Investigator
+* Staff Learning and Development Committee, Staff to Committee
+Alt-Textbook Committee
+* Co-chair
+* Open Education Expert
+University of Toronto Faculty of Information
+* iSchool Student Conference: 2016 Conference Co-Chair: Marketing and Online Communications
+* Admissions: Invited speaker and student life rep – Prospective & Admitted Student Days.
+* Mentoring @ iSchool Program Co-Chair, Mentor (2015-16)
+* Master of Information Student Council
+  * Academic Affairs Chair (2015-16)
+  * Social Committee Co-Chair (2015-16)
+  * Graduate Student Union Representative  - UTGSU Grievance Working Group (2014-15)
+  * Class Representative (2014-15)
+University of Toronto Libraries
+* 2015 Copyright in Canada Conference, Organizing committee
+
+## Additional Training
+Creative Commons Certificate (Beta): Creative Commons  
+Automate the Boring Stuff with Python: Udemy
+A Crash Course in Data Science: Johns Hopkins University on Coursera
+CopyrightX: HarvardX/Berkman Klein Center for Internet & Society 
+Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
