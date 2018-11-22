@@ -2,35 +2,8 @@
 title: About
 layout: page
 ---
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-    box-sizing: border-box;
-}
 
-.row {
-    display: flex;
-}
-
-.column {
-    flex: 50%;
-    padding: 10px;
-    height: 300px; 
-}
-</style>
-</head>
-<body>
-
-<div class="row">
-  <div class="column" >
-      <h1>Hello!</h1>
-    <p><img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"></p> 
-  </div>
-  <div class="column">
-    <h2>Column 2</h2>
-    <p>
+![Profile Image]({{ site.url }}/{{ site.picture }}
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
