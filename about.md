@@ -3,18 +3,8 @@ title: About
 layout: page
 ---
 # Hello!
-
-<html>
-<body>
-<div class="picture-container">
-
- <div class="polaroid image1" polaroid-caption="Hello!">
-<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"> </img> </div>
-
- </div>
-</body>
-
-</html>
+<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image" style="max-width:300px;">
+    
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
