@@ -4,7 +4,7 @@ layout: page
 ---
 # Hello!
 
-<img src="https://uc59f4a15c104dbe4f8c264c9fe8.previews.dropboxusercontent.com/p/thumb/AAT7f7M6CDIFByBogSp8xUi_s1DyR72mhWkoySpbkmnGyJTeTaDgfxyn4UcSgL8CAgvmE6TsgLWqW_61j9VKnr32nS2QeIMlajr1d40KSqj-W0NBNqFrpnl91zZhrK02V4_HTofq0kUvPHtIYMz-AElSZNPE8MjUOi512zod3iJd47wauF3gnBZI-Uz40EDkr7Lb_Lxe8QNpax_Vpo3hl_zLYd_YHtNmzgXP8ratYP6dg4yoMb6p1NXbndq9bGzhUEGPuyZZA1upN76gMp5ZEqpKavx5V35XLbPjf-j91bFr3g/p.jpeg?size=2048x1536&size_mode=3" alt="Lillian Hogendoorn" >
+<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"> </img>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
