@@ -5,11 +5,6 @@ layout: page
 # Hello!
 
 <html>
-
-<head>
- <title>Polaroid Pictures</title>
-</head>
-
 <body>
 <div class="picture-container">
 
