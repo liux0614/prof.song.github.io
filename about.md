@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 # Hello!
-<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"  border="5" align="left" style="max-width:300px;">
+<img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"  border="50" align="left" style="max-width:300px;">
     
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
