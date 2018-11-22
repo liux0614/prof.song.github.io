@@ -2,9 +2,6 @@
 title: About
 layout: page
 ---
-#
-
- <<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -29,7 +26,7 @@ layout: page
 <div class="row">
   <div class="column" style="background-color:#aaa;">
       <h1>Hello!</h1>
-    <p><img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"  border="50" align="left" style="max-width:300px;"></p> 
+    <p><img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"</p> 
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>Column 2</h2>
