@@ -46,55 +46,55 @@ Layout: Page
 
 ## Professional Service
 ### National/International
-Canadian Association of Research Libraries
-* Strengthening Capacity Committee’s Core Competencies Working Group
+* **Canadian Association of Research Libraries**
+  * Strengthening Capacity Committee’s Core Competencies Working Group
 
-The Idealis
-* Contributing Editor
+* **The Idealis**
+  * Contributing Editor
 
-OpenCon, SPARC & Right 2 Research Coalition
-* Satellite organizer, OpenCon 2017: NC Student Leaders, April 2017
-* Application review team, OpenCon 2017
+* **OpenCon**, SPARC & Right 2 Research Coalition**
+  * Satellite organizer, OpenCon 2017: NC Student Leaders, April 2017
+  * Application review team, OpenCon 2017
 
-Triangle Scholarly Communications Institute, Mellon Foundation
-* Staff and facilitator (2016 Triangle SCI)
+* **Triangle Scholarly Communications Institute,** Mellon Foundation
+  * Staff and facilitator (2016 Triangle SCI)
 
-Journal of Librarianship and Scholarly Communication, Ubiquity Press
-* Reviewer
+* **Journal of Librarianship and Scholarly Communication,** Ubiquity Press
+  * Reviewer
 
 ### Local/Regional
-Ontario Consortium of University Libraries
-* OER White Paper Working Group
+* **Ontario Consortium of University Libraries**
+  * OER White Paper Working Group
 
-Western University
-* Open Education Working Group Co-Chair
+* **Western University**
+  * Open Education Working Group Co-Chair
 
-Western Libraries
-* Scholarly Communication Subcommittee Co-Chair
-* Research Metrics Subcommittee
-* Research Support Standing Committee
+* **Western Libraries**
+  * Scholarly Communication Subcommittee Co-Chair
+  * Research Metrics Subcommittee
+  * Research Support Standing Committee
 
-NCSU Libraries		         
-* Instruction & e-Learning Team
-* User Research Team, Principal Investigator
-* Staff Learning and Development Committee, Staff to Committee
+* **NCSU Libraries**		         
+  * Instruction & e-Learning Team
+  * User Research Team, Principal Investigator
+  * Staff Learning and Development Committee, Staff to Committee
 
-Alt-Textbook Committee
-* Co-chair
-* Open Education Expert
+* **Alt-Textbook Committee**
+  * Co-chair
+  * Open Education Expert
 
-University of Toronto Faculty of Information
-* iSchool Student Conference: 2016 Conference Co-Chair: Marketing and Online Communications
-* Admissions: Invited speaker and student life rep – Prospective & Admitted Student Days.
-* Mentoring @ iSchool Program Co-Chair, Mentor (2015-16)
-* Master of Information Student Council
-  * Academic Affairs Chair (2015-16)
-  * Social Committee Co-Chair (2015-16)
-  * Graduate Student Union Representative  - UTGSU Grievance Working Group (2014-15)
-  * Class Representative (2014-15)
+* **University of Toronto Faculty of Information**
+  * iSchool Student Conference: 2016 Conference Co-Chair: Marketing and Online Communications
+  * Admissions: Invited speaker and student life rep – Prospective & Admitted Student Days.
+  * Mentoring @ iSchool Program Co-Chair, Mentor (2015-16)
+  * Master of Information Student Council
+    * Academic Affairs Chair (2015-16)
+    * Social Committee Co-Chair (2015-16)
+    * Graduate Student Union Representative  - UTGSU Grievance Working Group (2014-15)
+    * Class Representative (2014-15)
 
-University of Toronto Libraries
-* 2015 Copyright in Canada Conference, Organizing committee
+* **University of Toronto Libraries**
+  * 2015 Copyright in Canada Conference, Organizing committee
 
 ## Additional Training
 * Creative Commons Certificate (Beta): Creative Commons  
