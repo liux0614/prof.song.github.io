@@ -24,11 +24,11 @@ layout: page
 <body>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column" >
       <h1>Hello!</h1>
-    <p><img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"</p> 
+    <p><img src="https://lillian-rigling.github.io/indigo/assets/images/0058.jpg" alt="Profile Image"></p> 
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column">
     <h2>Column 2</h2>
     <p>
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -47,7 +47,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
   </div>
 </div>
-
+<hr>
 </body>
 </html>
 
