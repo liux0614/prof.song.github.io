@@ -1,11 +1,16 @@
 ---
+title: "Meeting the Commons"
 layout: post
-title: Meeting the Commons
-excerpt: "I came to Creative Commons looking for an in, but the door was always open."
-modified: 5/28/2017, 9:00:24
-tags: [CC Summit, Creative Commons, Toronto]
-comments: true
-category: blog
+date: 2017-05-28 9:00
+image: false
+headerImage: false
+tag:
+- CC Summit
+- Creative Commons
+- Open Licenses
+- Community
+author: lillianhogendoorn
+description: I came to Creative Commons looking for an in, but the door was always open.
 ---
 *[Originally Published on the Creative Commons Blog](https://creativecommons.org/2017/05/18/meeting-the-commons/)*
 

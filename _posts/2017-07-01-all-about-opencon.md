@@ -1,11 +1,16 @@
 ---
+title: "Rapid Boil, Slow Burn&#58 All About OpenCon"
 layout: post
-title: Rapid Boil, Slow Burn&#58 All About OpenCon
-excerpt: "Reflections on the 2016 OpenCon in Washington, D.C."
-modified: 5/07/2017, 13:53:24
-tags: [opencon, open science, open access, open education, SPARC, conference]
-comments: true
-category: blog
+date: 2017-07-01 9:00
+image: false
+headerImage: false
+tag:
+- OpenCon
+- Open Science
+- Open Access
+- Open Education
+author: lillianhogendoorn
+description: Reflections on the 2016 OpenCon in Washington, D.C.
 ---
 
 In November 2016 I eagerly boarded a train in Raleigh, NC headed north to Washington, D.C. in anticipation of attending the mythic, life-changing "OpenCon" conference. It was only two short days after the U.S. presidential election, which had shaken me to my core, and I had been looking forward to this trip to get myself through it. "I'm going to be around like-minded people," I thought to myself, "And we're going to change the world."

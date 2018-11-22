@@ -1,11 +1,17 @@
 ---
-layout: post
 title: Putting our Values into Practice - Reflections on OpenEd18
-excerpt: This is a movement still steered largely by the woke and privileged.
-modified: 16/10/2018, 11:30:24
-tags: [OER, Open Education, Equity, Privilege]
-comments: true
-category: blog
+layout: post
+date: 2017-10-16 11:30
+image: false
+headerImage: false
+star: true
+tag:
+- OER
+- Open Education
+- Equity
+- Privilege
+author: lillianhogendoorn
+description: This is a movement still steered largely by the woke and privileged.
 ---
 
 *The Open Education Conference*. Even though I had never attended this conference before, it felt like a summer camp-reunion. People I knew from other Open events. People from Twitter (my main source of professional friendships). People I had never met before but who were sharing in this experience and that was enough to feel like we knew all the same campfire songs and ghost stories. It was like in that cold conference centre I could feel the warmth of a campfire and smell the burning wood and marshmallows.
