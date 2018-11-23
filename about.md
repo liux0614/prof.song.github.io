@@ -2,33 +2,17 @@
 title: About
 layout: page
 ---
-
+# Hello
 ![Profile Image]({{ site.url }}/{{ site.picture }}
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I'm Lillian Hogendoorn (née Rigling) and I'm a trained Scholarly Communication and Copyright Librarian with a passion for Open Education and Open Scholarship. I currently work as the Program Coordinator for eCampusOntario, supporting open and technology-enabled learning at Ontario’s 45 colleges and universities. Previously, I worked as a Research and Scholarly Communications Librarian at Western University Libraries, and as a cross-appointed Librarian/Fellow at North Carolina State University Libraries in the Copyright & Digital Scholarship Center and User Experience Department. I earned my Master of Information in Library and Information Science at the University of Toronto Faculty of Information in 2016. 
 
-  </div>
-</div>
-<hr>
-</body>
-</html>
-
+My research and practice centres on the intersection of Open with critical issues, such as privacy, information privilege, and accessibility. This website is an evolving representation of my experience, my practice, and my thoughts. If you have questions, comments, or just want to chat, please reach out via email (lrigling @ gmail.com) or on Twitter at [@lilyrglg](https://twitter.com/lilyrglg). 
 
 ## Skills
 ### Technical Skills
 * Content Management Systems, including Drupal, Wordpress, and Cascade.
-* DigitalRepository Systems, including DSpace and bePress 
+* Digital Repository Systems, including DSpace and bePress 
 * HTML, CSS, and Markdown proficiency.
 * Data Analysis and visualization tools, including OpenRefine, R, NVivo, and Tableau.
 
@@ -39,4 +23,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 * Proven success building community partnerships through outreach initiatives.
 * Curriculum design & instruction experience for in-class, virtual, and workshop-based instruction. 
 
-*I live and work on the unceded land of the Anishinabewaki, Huron-Wendat, and Haudenosauneega peoples.*
+*I live and work on the unceded territory of the Anishinabewaki, Huron-Wendat, and Haudenosauneega peoples.*
