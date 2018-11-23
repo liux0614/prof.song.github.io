@@ -3,7 +3,7 @@ title: Speaking
 layout: page
 ---
 # Speaking
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ezkIz8u8TXSVYhIjIS1CqR_QHVDBBHUs" width="800" height="250"></iframe> 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ezkIz8u8TXSVYhIjIS1CqR_QHVDBBHUs"></iframe> 
 
 ## Presentations 
 ##### 2019
