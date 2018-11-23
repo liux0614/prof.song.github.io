@@ -43,7 +43,7 @@ Layout: Page
 `2016` Outstanding Student Contribution Award, Faculty of Information Alumni Association
 
 ## Professional Service
-###### National/International
+#### National/International
 * **Canadian Association of Research Libraries**
   * Strengthening Capacity Committee’s Core Competencies Working Group
 
@@ -60,7 +60,7 @@ Layout: Page
 * **Journal of Librarianship and Scholarly Communication,** Ubiquity Press
   * Reviewer
 
-###### Local/Regional
+#### Local/Regional
 * **Ontario Consortium of University Libraries**
   * OER White Paper Working Group
 
