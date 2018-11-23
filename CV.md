@@ -102,13 +102,13 @@ Layout: Page
 * Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
 
 ## Skills
-##### Technical Skills
+#### Technical Skills
 * Content Management Systems, including Drupal, Wordpress, and Cascade.
 * Digital Repository Systems, including DSpace and bePress 
 * HTML, CSS, and Markdown proficiency.
 * Data Analysis and visualization tools, including OpenRefine, R, NVivo, and Tableau.
 
-##### Transferable Skills
+#### Transferable Skills
 * Experienced in agile project management.
 * Grant writing for local and federal grants.  
 * User experience and user research methodologies.
