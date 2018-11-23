@@ -17,7 +17,7 @@ layout: page
 * [“This was actually fun!”: Engaging Users in Conversations about Digital Literacy](https://docs.google.com/presentation/d/e/2PACX-1vTpTepDBKiI3y-vqoeNw5-YnX4kntAPbC16mERHppbsMKJYsziZv8oKtdTpviCg0DTmn0t5u9bgv7v0/embed?start=false&loop=false&delayms=30000#slide=id.g39d65b6d55_3_5), Rigling, L., Johnson, E., & Goldhawk, M., Workshop for Instruction in Library Use (WILU) 2018, June 2018.
 * [Open By Default? Concept-Mapping Our Way to Open Access Consensus](https://ir.lib.uwo.ca/wlpres/60/), Carlisle, E., Rigling, L., Waugh, C. & Paterson, J., Ontario Library Association Superconference, February 2018. (poster)
 
-### 2017
+##### 2017
 * [How can we tell a different story? Challenges and Opportunities for Altmetrics Outreach](http://bit.ly/hcwtads), Versluis, A., Rigling, L., & Hare, S., 4:AM Altmetrics Conference, September 2017.
 * [Mapping the Copyright Constellation: Charting Campus Partners to Create Copyright Instruction Your Students Will Care About](https://docs.google.com/presentation/d/1aiME-_UCFdFaghtdN9atnjQ7RikCDuEf4KyNeQBvFI0/edit?usp=sharing), Cross, W., Keener, M. & Rigling, L., Kraemer Copyright Conference, June 2017.
 * Reclaiming STEM Spaces: Why Haven't Libraries and University Presses Worked Together to Form Viable Alternatives to Commercial Publishing?  (Panelist), Society for Scholarly Publishing 39th Annual Meeting, June 2017.
