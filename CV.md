@@ -9,9 +9,8 @@ Layout: Page
 **Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
-#### Currently
-**Program Coordinator**, eCampusOntario
-#### Previously
+**Program Coordinator**, eCampusOntario `2018 - present`
+
 **Research & Scholarly Communications Librarian**, Western University Libraries `2017 - 2018`
 
 **Donald E. Moreland Library Fellow/Librarian**, North Carolina State University Libraries `2016 - 2017`
@@ -44,7 +43,7 @@ Layout: Page
 `2016` Outstanding Student Contribution Award, Faculty of Information Alumni Association
 
 ## Professional Service
-#### National/International
+###### National/International
 * **Canadian Association of Research Libraries**
   * Strengthening Capacity Committee’s Core Competencies Working Group
 
@@ -61,7 +60,7 @@ Layout: Page
 * **Journal of Librarianship and Scholarly Communication,** Ubiquity Press
   * Reviewer
 
-#### Local/Regional
+###### Local/Regional
 * **Ontario Consortium of University Libraries**
   * OER White Paper Working Group
 
@@ -103,13 +102,13 @@ Layout: Page
 * Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
 
 ## Skills
-#### Technical Skills
+##### Technical Skills
 * Content Management Systems, including Drupal, Wordpress, and Cascade.
 * Digital Repository Systems, including DSpace and bePress 
 * HTML, CSS, and Markdown proficiency.
 * Data Analysis and visualization tools, including OpenRefine, R, NVivo, and Tableau.
 
-#### Transferable Skills
+##### Transferable Skills
 * Experienced in agile project management.
 * Grant writing for local and federal grants.  
 * User experience and user research methodologies.
