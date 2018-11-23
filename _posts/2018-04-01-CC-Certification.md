@@ -38,8 +38,8 @@ Below are some of the projects I completed for this course, openly licensed for 
 
 ### History of Creative Commons
 
-An infographic about the history and purpose of the Creative Commons. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">Download PDF</a>
+An infographic about the history and purpose of the Creative Commons. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/gh-pages/assets/images/CC%20Who%20What%20When%20Where%20and%20Why.pdf">Download PDF</a>
 
 
 ### Economics of Scholarly Information
-An infographic about the flow money in the scholarly publishing industry. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/master/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>
+An infographic about the flow money in the scholarly publishing industry. <a href="https://github.com/lillian-rigling/lillian-rigling.github.io/blob/gh-pages/assets/images/The%20Economics%20of%20Scholarly%20Information.pdf">Download PDF</a>
