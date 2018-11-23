@@ -102,3 +102,17 @@ Layout: Page
 * A Crash Course in Data Science: Johns Hopkins University on Coursera
 * CopyrightX: HarvardX/Berkman Klein Center for Internet & Society
 * Introduction to User Experience: Girl, Develop It! Raleigh-Durham Chapter
+
+## Skills
+### Technical Skills
+* Content Management Systems, including Drupal, Wordpress, and Cascade.
+* Digital Repository Systems, including DSpace and bePress 
+* HTML, CSS, and Markdown proficiency.
+* Data Analysis and visualization tools, including OpenRefine, R, NVivo, and Tableau.
+
+### Transferable Skills
+* Experienced in agile project management.
+* Grant writing for local and federal grants.  
+* User experience and user research methodologies.
+* Proven success building community partnerships through outreach initiatives.
+* Curriculum design & instruction experience for in-class, virtual, and workshop-based instruction. 
