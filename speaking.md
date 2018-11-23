@@ -6,11 +6,11 @@ layout: page
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ezkIz8u8TXSVYhIjIS1CqR_QHVDBBHUs" width="500" height="250"></iframe> 
 
 ## Presentations 
-### 2019
+##### 2019
 * Making Music, Uncovering Copyright, Hogendoorn, L., Groth, J.E., & Cross, W. Association of College and Research Libraries 2019, April 2019.
 * From Open Education to Social Justice: Making the Leap, (Panelist) Brander, L., Hogendoorn, L., Daniels, C., & Tucker, A. Ontario Library Association Superconference 2019, January 2019.
 
-### 2018
+##### 2018
 * DIY Digital Advocacy, Rigling, L., Johnson, E., & Goldhawk, M., Digital Citizenship Summit Toronto, October 2018.
 * Exploring Models for Independent & Collaborative OER Publishing, (Panelist) Luke, J., Lauritsen, K., Rigling, L., & Brown, A., Open Education Conference 2018, October 2018.
 * OER Publishing and Open Source: eCampusOntario, Pressbooks, and DSPACE, McGuire, H., & Rigling, L., Open Education Conference 2018, October 2018. (poster)
@@ -28,13 +28,13 @@ layout: page
 * [Understanding Student Behavior to Support Student Success: Two Empirical Lenses for an Impactful Open Education Program](https://docs.google.com/presentation/d/1iSvceX3IgoYCVs-Hos2UXfHW5QB0tl0Psv7iiEDlN1s/edit?usp=sharing), Cross, W., Rigling, L., & Grguric, E., Empirical Librarians Conference, February 2017.
 * What Can I Do with That Code?: Understanding Open Source Licenses in the Wild, Rigling, L., Khan, N., & Cross, W. - OpenSource101 (All Things Open), February 2017.
 
-### 2016
+##### 2016
 * Data + Relationships: Using Institutional Knowledge and Student Voices to Advocate for Open Education (lightning talk), Rigling, L., OpenCon, November 2016.
 * Library Usage as a Map for Targeting OER Advocacy & Growth, Raschke, G., Cross, W., Thompson, S., Vickery, J., & Rigling, L., The 13th Annual Open Education Conference, November 2016.
 * [Behind the Screen: How Platform-Specific Policy Affects Consumer Behaviour of Non-Consensual Pornography](https://www.slideshare.net/LillianRigling/behind-the-screen-how-platformspecific-policy-affects-consumer-behaviour-of-nonconsensual-pornography) – Rigling, L., & Clarkson, A., Oxford Internet Institute Internet, Policy, & Politics Conference, September 2016.
 * [Accessing Academic Integrity: Supporting undergraduate students through Policy Rebranding and Outreach](http://accessola2.com/superconference2016/Posters/Accessing-Academic-Integrity.pdf), Clarkson, A., Fratarcangeli, B., Moffat, C., Rigling, L., & Sparling, A., Ontario Library Association Superconference, January 2016 (Poster).
 
-### 2015
+##### 2015
 * Zero to Low Cost Course Pilot Project: Increasing Access to Course Materials through Library Services  - Rigling, L., & Pietropaolo-DeMarco, T. Toronto Ryerson York Library Staff Conference, May 2015 (Poster).
 
 ## Invited Talks and Workshops
