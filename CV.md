@@ -1,6 +1,6 @@
 ---
 Title: CV
-TOC: true
+toc: true
 Layout: Page
 ---
 # Experience
