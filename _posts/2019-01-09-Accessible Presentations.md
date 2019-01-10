@@ -4,7 +4,7 @@ layout: post
 date: 2019-01-09 20:35
 image: false
 headerImage: false
-star: true
+star: false
 tag:
 - Accessibility
 - Conference
