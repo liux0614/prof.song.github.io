@@ -12,8 +12,7 @@ category: blog
 author: lillianhogendoorn
 description: Easy tips to prepare and deliver an accessible presentation
 ---
-**Created for the Technology Enabled Seminar and Showcase, November 2018**
-Tips for Accessible Presentations
+*Created for the Technology Enabled Seminar and Showcase, November 2018*
  
  ## Accessibility Basics:
  
