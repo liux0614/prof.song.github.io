@@ -14,7 +14,7 @@ description: Easy tips to prepare and deliver an accessible presentation
 ---
 *Created for the Technology Enabled Seminar and Showcase, November 2018*
  
- ## Accessibility Basics:
+ <h2> Accessibility Basics: </h2>
  
 As presenters, consider that people may have accessibility needs that you do not see or might not think of.  Some people may not be able to see, hear, move, or speak well or at all. We strive to create an event where participants feel their needs are respected. Here are some tips for delivering a presentation that is accessible to all.
  
