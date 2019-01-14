@@ -9,7 +9,9 @@ Layout: Page
 **Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
-**Program Coordinator**, eCampusOntario `2018 - present`
+**Digital Access & OER Lead**, eCampusOntario `2019 - present`
+
+**Program Coordinator**, eCampusOntario `2018 - 2019`
 
 **Research & Scholarly Communications Librarian**, Western University Libraries `2017 - 2018`
 
