@@ -12,7 +12,7 @@ category: blog
 author: lillianhogendoorn
 description: Keynote delivered at Brock Univesity for Open Education Week
 ---
-*this keynote was delivered for Brock University for [Open Education: Focus on Open Educational Resources](https://experiencebu.brocku.ca/event/97810). 
+*this keynote was delivered for Brock University for [Open Education: Focus on Open Educational Resources](https://experiencebu.brocku.ca/event/97810). the slides are available [here](https://docs.google.com/presentation/d/1PCYbMCGLTQnYPZMa6Tadih0Y0l_QjpmLGmXAXh8beSk/edit?usp=sharing)* 
 
 # working towards open, working for you
 
