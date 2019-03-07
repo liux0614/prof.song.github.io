@@ -10,20 +10,21 @@ tag:
 - Community
 category: blog
 author: lillianhogendoorn
-description: Keynote delivered at Brock Univesity Open Education Day
+description: Keynote delivered at Brock Univesity for Open Education Week
 ---
+*this keynote was delivered for Brock University for [Open Education: Focus on Open Educational Resources](https://experiencebu.brocku.ca/event/97810). 
 
-# Working towards open, working for you
+# working towards open, working for you
 
-Thank you all so much for having me.
-
-I would like to begin by acknowledging that we are meeting on land that has been inhabited by Indigenous peoples long before today. This land is the traditional territory of Anishinaabeg and Haudenosaunee peoples.
+I would like to acknowledge that we are meeting on land that has been inhabited by Indigenous peoples long before today. This land is the traditional territory of Anishinaabeg and Haudenosaunee peoples.
 
 It is important to understand the long-standing history that brought us here today and to understand our place within that history. Today, I’m going to talk about my own journey to Open Education. But before I do, please remember that I, like most of us here, am a settler on this land. And that means that my journey and yours is inextricably linked to this land and its rich history. By taking this time to honour the land and its First Nations’ heritage, we take part in an act of reconciliation and acknowledge the sacrifices made and the losses endured by Indigenous people.
 
-I’d like to begin by getting to know you all a little better. Raise your hand if you would consider yourself an educator. (say how many.) Okay, now raise your hand if you would consider yourself to be a learner. (say how many).
+I’d like to begin by getting to know you all a little better. Raise your hand if you would consider yourself an educator. Okay, now raise your hand if you would consider yourself to be a learner.
 
 I like to think of myself as both an educator and a learner. As some of you might have guessed by looking at me, I’m relatively early in my career in Open Education. I’m still learning every day. But I’m standing here in front of you all with a big OER job title tasked with, at the very least, imparting some new knowledge about open education, and hopefully striking at least a little bit of inspiration. And today, that makes me an educator. 
+
+## stumbling into the open
 
 I stumbled into Open Education work. As an undergraduate student studying English, I was supporting myself by shelving books at Robarts Library at the University of Toronto. I loved the job because I got to listen to audiobooks and every once in a while I would stumble upon what I thought was a really hilarious book title. This is a real photo I took on one of my shelving shifts called *Evil: a Guide for the Perplexed*.  Also, unlike my second job working at a telefund, I didn’t have to deal with too many angry people. And unlike my third job as a barista, I never burned myself.  
 
@@ -43,18 +44,17 @@ I was aware of SPARC, the Scholarly Publishing and Academic Resources Coalition,
 
 So I found the SPARC Definition of open education:
 
-Open Education encompasses resources, tools and practices that are free of legal, financial and technical barriers and can be fully used, shared and adapted in the digital environment. Open Education maximizes the power of the Internet to make education more affordable, accessible and effective.
+[Open Education encompasses resources, tools and practices that are free of legal, financial and technical barriers and can be fully used, shared and adapted in the digital environment. Open Education maximizes the power of the Internet to make education more affordable, accessible and effective.](https://sparcopen.org/open-education/)
 
-Sounds pretty great, right? And then I found David Wiley’s 5 Rs. 
+Sounds pretty great, right? And then I found [David Wiley’s 5 Rs.](http://opencontent.org/definition/) 
 
 With Open Textbooks you can:
 
-Retain your book. Which is awesome. I can’t count the number of PDFs of scanned chapters I never downloaded from our Learning Management System that I wished I had access to later on. 
-Reuse the content: This seemed like a no brainer. Of course you would want to be able to use content.
-Revise: Sounds good. No professor using an Open Textbook would ever say “skip this chapter” or “I don’t like the way this author describes this content” because they could simply take it out of the text. 
-Remix - Great. This sounded, to me, like what we were doing when we made an e-Reserve course pack. Taking two different resources and mashing them together to create something new.
-And
-Redistribute: Never again would I have to worry about sharing a copy with a friend in my class, or, because I was kind of a nerd, emailing my parents a copy of a cool article I read. 
+* Retain your book. Which is awesome. I can’t count the number of PDFs of scanned chapters I never downloaded from our Learning Management System that I wished I had access to later on. 
+* Reuse the content. This seemed like a no brainer. Of course you would want to be able to use content.
+* Revise. Sounded good. No professor using an Open Textbook would ever say “skip this chapter” or “I don’t like the way this author describes this content” because they could simply take it out of the text. 
+* Remix. Great. This sounded, to me, like what we were doing when we made an e-Reserve course pack. Taking two different resources and mashing them together to create something new.
+* Redistribute: Never again would I have to worry about sharing a copy with a friend in my class, or, because I was kind of a nerd, emailing my parents a copy of a cool article I read. 
 
 So I decided I would become an “Open Education Advocate.” And when I graduated, I packed up my Toronto apartment and headed South to North Carolina State University to become a Copyright and Digital Scholarship Librarian.
 
@@ -66,11 +66,11 @@ I learned quickly because I was hungry, and I learned quickly because I had to. 
 
 And I was thinking a lot about all the happy accidents that had led me to that point. 
 
-I would think things like, “Well, I would never have gone to the information session on this fellowship if they weren’t giving out pizza.” And then go a little further back. “I would never have gone to library school if I hadn’t worked in the library.” And even further back.  “I would never have even worked as a shelver if my roommate hadn’t gotten a job at the library and put in a good word for me.” It started to feel like maybe this wasn’t something I was passionate about, but it was the path of least resistance.
+I would say things to my partner like, “Well, I would never have gone to the information session on this fellowship if they weren’t giving out pizza, so I guess I only have this job because I really like pizza” And then go a little further back. “I would never have gone to library school if I hadn’t worked in the library.” And even further back.  “I would never have even worked as a shelver if my roommate hadn’t gotten a job at the library and put in a good word for me.” It started to feel like maybe this wasn’t something I was passionate about, but it was the path of least resistance.
 
 So I decided to go to another library and work as a liaison librarian. And everything that I had felt when I was succeeding at North Carolina State, I felt it ten-fold as a liaison. I was looking for something familiar, open education or otherwise, and I couldn’t find it. The culture shock left me paralyzed. I knew I wanted to do something else, and to be somewhere else, but I didn’t know where or when. And that made me feel like I didn’t know who I was at all. 
 
-The World is Round: 
+## The World is Round 
 
 Every good talk needs an origin story. But today I’m going above and beyond, and I’m going to give you a second origin story. Rose’s origin story. 
 
@@ -78,10 +78,10 @@ I recently learned that Gertrude Stein wrote one children’s book, published in
 
 The World is Round is the story of a nine- almost ten-year-old little girl named Rose who is, of course, dealing with a lot of existential angst. She’s having all of this anxiety and dread because she does not know if she would be Rose if her name were not Rose. And she sings herself a little song of questions. She asks
 
-Why am I a little girl?
-When am I a little girl?
-Where am I a little girl? And..
-Which little girl am I?
+* Why am I a little girl
+* When am I a little girl?
+* Where am I a little girl? And..
+* Which little girl am I?
 
 Simple. Rose is having an identity crisis. 
 
@@ -101,14 +101,13 @@ There were also things that were really important to me that did not show up as 
 
 When open means everything to everyone, we lose touch with the heart of open, and it starts to mean nothing at all.
 
-Beyond the Pitch
+## Selling Open (we're here to change the world)
 
 Over the past few years I have been to many Open Education events, talks, and workshops. And most of these events have had the same rhetoric. Open Education will change the world. Open Education is about everyone, everywhere having access to better education. All we, the participants, need to do to create a better, more open and equitable education system, is master a 30 second elevator pitch. We need to be prepared to rebut the sceptics. We need to memorize the facts:
 
-39%: the average rate of food insecurity for postsecondary students according to a study of five major Canadian Universities. 
-
-65% of students surveyed by U.S. PIRG in a multi-institution massive survey report electing to not buy a textbook. 
-93% of students in a course using OER perform as well or better, according to a metanalysis of several efficacy studies.
+* 39%: the average rate of food insecurity for postsecondary students according to a study of five major Canadian Universities. 
+* 65% of students surveyed by U.S. PIRG in a multi-institution massive survey report electing to not buy a textbook. 
+* 93% of students in a course using OER perform as well or better, according to a metanalysis of several efficacy studies.
 
 And then we need to sell Open Education as the solution. 
 
@@ -120,7 +119,7 @@ You all have different reasons for coming here today; different connections to O
 
 Now, please keep that in your mind as we take a deeper dive into the principles that underpin SPARC’s definition of Open Education. 
 
-Student Experience:
+## Technocracy
 
 Technology and the power of the internet are deeply baked into this definition. Open Education works because of the power of the internet. So let’s unpack that. Who has access to technology?
 
@@ -128,9 +127,9 @@ I’m sure you’ve all heard the term “Digital Native.” It was first coined
 
 In 2001, Marc wrote 
 
-“Today’s students – K through college – represent the first generations to grow up with this new technology. They have spent their entire lives surrounded by and using computers, videogames, digital music players, video cams, cell phones, and all the other toys and tools of the digital age...  The most useful designation I have found for them is Digital Natives. Our students today are all “native speakers” of the digital language of computers, video games and the Internet.”
+[“Today’s students – K through college – represent the first generations to grow up with this new technology. They have spent their entire lives surrounded by and using computers, videogames, digital music players, video cams, cell phones, and all the other toys and tools of the digital age...  The most useful designation I have found for them is Digital Natives. Our students today are all “native speakers” of the digital language of computers, video games and the Internet.”](https://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf)
 
-This term has been heavily criticised. Within a few years, critics of Marc’s term and the people who accepted the digital native/digital immigrant binary were out in full force. In 2007, Urban Dictionary author SongPoet, succinctly defined Digital nativism as the “Mistaken belief that young folks who were born immersed in things digital are somehow in a state of grace and older folks are cursed by their age and lack of digital conditioning. Arrogant and insulting division of generations into different camps first proposed by Marc Prensky but unfounded on any survey data.” 
+This term has been heavily criticised. Within a few years, critics of Marc’s term and the people who accepted the digital native/digital immigrant binary were out in full force. In 2007, Urban Dictionary author SongPoet, succinctly defined Digital nativism as the [“Mistaken belief that young folks who were born immersed in things digital are somehow in a state of grace and older folks are cursed by their age and lack of digital conditioning. Arrogant and insulting division of generations into different camps first proposed by Marc Prensky but unfounded on any survey data.”](https://www.urbandictionary.com/define.php?term=Digital%20nativism) 
 
 But Marc is not only creating a false-binary between generations of students when it comes to technology. He is also making huge assumptions about the experience of growing up in a world where home computing and home internet existed. 
 
@@ -138,15 +137,15 @@ What Marc is doing by creating a false homogeneity of a generation is failing to
 
 So for example, a student’s experience might be represented as “I am taking an introductory Psychology course and I am not performing well.” But their lived experience might be much more complex. For example “I am taking an introductory Psychology course but the latest edition of the book was too expensive so I bought an old edition. Also, the professor assigned a lot of videos but I only have one computer at home and my little sister needs it to do her homework, too, so I sometimes can’t watch them before class and my marks are suffering”
 
-Dr. Donna Lanclos, Anthropologist at UNC-Charlotte Libraries, writes that “experience is a neat thing, that we can think we know the meaning of, while as soon as you start talking about the ‘lived experience’, things get messy.” Donna, in her research, tries to make sense of this messiness of lived experience, because only by beginning to understand this real world of student experience can you begin to design a better student experience. 
+Dr. Donna Lanclos, Anthropologist at UNC-Charlotte Libraries, writes that, [“...experience is a neat thing, that we can think we know the meaning of, while as soon as you start talking about the ‘lived experience’, things get messy.”](https://insights.uksg.org/articles/10.1629/uksg.316/) Donna, in her research, tries to make sense of this messiness of lived experience, because only by beginning to understand this real world of student experience can you begin to design a better student experience. 
 
-Here is a cognitive map, drawn by a post-graduate student at University College London, who was a participant in one of Dr. Lanclos’s studies. This student is mapping all of the places where she “learns.” This “Draw and Write” technique is a large component of Dr. Lanclos’s research. She asks students to change colours of their pen every two minutes to show the evolution of their maps. The students then explain the map to the researcher.
+[Here is a cognitive map](https://insights.uksg.org/articles/10.1629/uksg.316/), drawn by a post-graduate student at University College London, who was a participant in one of Dr. Lanclos’s studies. This student is mapping all of the places where she “learns.” This technique is a large component of Dr. Lanclos’s research. She asks students to change colours of their pen every two minutes to show the evolution of their maps. The students then explain the map to the researcher.
 
  Students have maps that cross state lines, and sometimes even oceans. Learning spaces include institutional, residential, commercial, and public spaces. This student’s map includes public transportation, a recurring theme for students in urban areas.
 
 The fact that students are studying in coffee shops or on the bus isn’t alarming in and of itself. I’m sure each of you walks around your campus or downtown St. Catherines and sees students on laptops or huddled around textbooks. It’s not a surprise that our students are part of a larger world. But what happens when we bring that to the forefront of our consciousness? How can you choose, for example, course materials that are not just “open” but that are accessible any learning space? Can open education even accomplish that?
 
-Now let’s look closer at these devices that students are using. In 2014, Maura Smale and Mariana Regalado published a multi-year qualitative study of undergraduates at six colleges at the City University of New York striving to unpack how, where, and when students accomplished their academic work and how their access to technology or lack thereof, impacted their student experience. While most of the subjects of these studies had access to some kind of internet-enabled technology outside of school, and the overwhelming number of students fit Marc Prensky’s definition of “digital natives,” access to technology was still an enormous source of frustration for students. Having access to an off-campus computing device didn’t mean that they had unrestricted access. In addition to sharing devices with parents, roommates, and siblings, students mentioned having limited data, bandwidth, or battery life. They spoke of struggling to get access to a computer or even an outlet to charge their own device while on campus. Others with personal laptops were concerned about the security of their device outside of their home, or even just the sheer weight of a bag full of books and a laptop. 
+Now let’s look closer at these devices that students are using. [In 2014, Maura Smale and Mariana Regalado published a multi-year qualitative study of undergraduates at six colleges at the City University of New York](https://er.educause.edu/articles/2014/9/commuter-students-using-technology) striving to unpack how, where, and when students accomplished their academic work and how their access to technology or lack thereof, impacted their student experience. While most of the subjects of these studies had access to some kind of internet-enabled technology outside of school, and the overwhelming number of students fit Marc Prensky’s definition of “digital natives,” access to technology was still an enormous source of frustration for students. Having access to an off-campus computing device didn’t mean that they had unrestricted access. In addition to sharing devices with parents, roommates, and siblings, students mentioned having limited data, bandwidth, or battery life. They spoke of struggling to get access to a computer or even an outlet to charge their own device while on campus. Others with personal laptops were concerned about the security of their device outside of their home, or even just the sheer weight of a bag full of books and a laptop. 
 
 The average commute for a student at CUNY is between 45 minutes and 60 minutes each way, and a lot of students relied on cell phones to do schoolwork during their commute. More than one student even mentioned typing out essays on a cell phone, and many faculty confirmed that they received assignments “sent from my iPhone.” I don’t know about you, but I can barely text without a typo, let alone write a two thousand word essay. But necessity is the mother of invention, and these students were determined to find a way to succeed in their education. 
 
@@ -156,18 +155,15 @@ For students who experience real daily struggles because of financial constraint
 
 Returning to that definition, how can we say that Open Education maximizes the power of the Internet  to make education more affordable and accessible when access to the internet is not a given?
 
-Instructor Experience:
+## Educator Experience
 
 If we’re going to consider the lived experience of students, we of course have to consider the lived experience of educators using or creating open educational resources. 
 
 Consider our “lived experience” of a student struggling in an introductory psychology class. The flip side of that might look something like this.
 
-The instructor’s “experience” 
-“I teach an introductory Psychology course.”
+The instructor’s experience: “I teach an introductory Psychology course.”
 
-Lived Experience:
-
-“I teach an introductory Psychology course, but I was hired on contract a few weeks before the semester started, so I used the old text - which was authored by my department head - and syllabus. I tried to give the class my own personal touch by assigning some of my favourite YouTube videos explaining and lectures to supplement the text.” 
+Their lived experience: “I teach an introductory Psychology course, but I was hired on contract a few weeks before the semester started, so I used the old text - which was authored by my department head - and syllabus. I tried to give the class my own personal touch by assigning some of my favourite YouTube videos explaining and lectures to supplement the text.” 
 
 There are serious constraints on any instructor’s ability to implement open educational resources or pedagogies in their classroom. I want to say you are incredibly lucky here at Brock to have some amazing supports in Jennifer and Laurie from the Library, and in Giulia from the Centre for Pedagogical Innovation. Later today you’ll get to hear from instructors that have already been working with Open Educational Resources or Open Pedagogy, who are models for what it looks like to be at Brock and to engage in this work. But that’s exactly what it is. Work. 
 
@@ -181,7 +177,7 @@ You can argue that OER work is service to the field. Creating free and publicly 
 
 And, if you’re not a subject matter expert, perhaps you’re in an OER support role. If you’re an instructional designer, there’s a huge place for you in OER. If you are a librarian, there is definitely a place for you to contribute expertise. But is there space for OER in your workload? 
 
-Open Education work is often happening off the side of the desks of super keen and excited educators who have the luxury of spare time or support. 
+Open Education work is often happening off the side of the desks of super keen and excited educators who have **the luxury of spare time or support.** 
 
 I think many of you here are uniquely positioned to be successful as open educators and open advocates. We’re at an institution with incredible support for new and interesting pedagogy who has devoted time to an Open Education Day of learning twice. You have people in this room who have a depth of understanding about Open Education that many institutions simply don’t have. And you have a provincial institution that has been funding this work. Compared to most places, at a macro-level you’re poised to succeed. 
 
@@ -194,6 +190,8 @@ But this was, for sure, not the case. It turned out that the offices and lack of
 And that’s just one little relatively insignificant piece of organizational context. 
 
 Just as you know your personal values better than anyone else, you also probably have the best understanding of your unique position within your ecosystem. And you probably also have the best understanding of the boundaries of what you know and what you do not know. And having that deep understanding is your superpower. 
+
+## Rose is a rose is a rose
 
 So let’s return to Rose. In her search for clarity she decides to climb a mountain. Rose was way ahead of her time and she basically is the poster child for millennial self discovery. By putting herself in a brand new territory it forces her to face things unknown. New sounds and smells and creatures. And she emerges, not-quite at the summit of the mountain, having a greater understanding of why, when, and where she is a little girl, and which little girl she is. 
 
@@ -224,10 +222,10 @@ I had a conceptual understanding of the language-bias in Open Education. There�
 Yet, I can get on a plane and be in a classroom at La Cité, one of the institutions that eCampusOntario represents, and be surrounded by Francophones. And my statement of values that I use as a touchstone doesn’t take into account the lived experience of Franco-ontarians. This had never been part of my context.
 
 So it’s time to ask again:
-Why am I an open advocate?
-When am I an open advocate?
-Where am I an open advocate?
-And Which type of open advocate am I?
+* Why am I an open advocate?
+* When am I an open advocate?
+* Where am I an open advocate?
+* And Which type of open advocate am I?
 
 I am twenty-six almost twenty-seven years old, and I have been working in Open Education for nearly five years. I have almost forty years left of a career. I work at eCampusOntario, and we have been advocating for Open Education in the province of Ontario for less than five years. And our initial mandate was simply to create a home for Ontario to find online courses they could take. We are at the beginning of our OER climb, and we have no idea what the rest of our mountain looks like. 
 I have some modest goals.
