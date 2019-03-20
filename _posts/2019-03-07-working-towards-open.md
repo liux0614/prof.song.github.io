@@ -4,6 +4,7 @@ layout: post
 date: 2019-03-07 9:00
 image: false
 headerImage: false
+star: true
 tag:
 - OER
 - Open Education
@@ -15,6 +16,8 @@ description: Keynote delivered at Brock Univesity for Open Education Week
 *this keynote was delivered for Brock University for [Open Education: Focus on Open Educational Resources](https://experiencebu.brocku.ca/event/97810). the slides are available [here](https://docs.google.com/presentation/d/1PCYbMCGLTQnYPZMa6Tadih0Y0l_QjpmLGmXAXh8beSk/edit?usp=sharing)* 
 
 # working towards open, working for you
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V4kWWhsLTe8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I would like to acknowledge that we are meeting on land that has been inhabited by Indigenous peoples long before today. This land is the traditional territory of Anishinaabeg and Haudenosaunee peoples.
 
