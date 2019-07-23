@@ -10,3 +10,9 @@ I'm Lillian Hogendoorn (née Rigling) and I'm a trained Scholarly Communication 
 My research and practice centres on the intersection of Open with critical issues, such as privacy, information privilege, and accessibility. This website is an evolving representation of my experience, my practice, and my thoughts. If you have questions, comments, or just want to chat, please reach out via email (lrigling @ gmail .com) or on Twitter at [@lilyrglg](https://twitter.com/lilyrglg). 
 
 *I live and work on the unceded territory of the Anishinabewaki, Huron-Wendat, and Haudenosauneega peoples.*
+
+Also, I built this OER Calculator!
+
+<iframe width="280" height="280" scrolling="no" src="https://openlibrary.ecampusontario.ca/oer-calculator/">
+<p>Your browser does not support iframes.</p>
+</iframe>
