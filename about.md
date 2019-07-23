@@ -12,7 +12,3 @@ My research and practice centres on the intersection of Open with critical issue
 *I live and work on the unceded territory of the Anishinabewaki, Huron-Wendat, and Haudenosauneega peoples.*
 
 Also, I built this OER Calculator!
-
-<iframe width="280" height="280" scrolling="no" src="https://openlibrary.ecampusontario.ca/oer-calculator/">
-<p>Your browser does not support iframes.</p>
-</iframe>
