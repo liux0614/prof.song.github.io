@@ -5,9 +5,10 @@ layout: page
 # Writing
 
 ## Book Chapters
+* Hogendoorn, L. (Ed.) Open Education in Bolick, J., Cross, W., & Bonn, M, (Eds.) [Open Textbook of Scholarly Communications Librarianship](https://lisoer.wordpress.ncsu.edu/book/), Association of College and Research Libraries
 * Rigling L., & Cross, W. (in press). Sustainability and Expansion in Cohen, S. (Ed.) Establishing an Open Education Mini-Grant Program, Open Textbook Network
-* Rigling, L., & Cross, W. (in press). Getting to Know You: How We Turned Community Knowledge into Open Advocacy in Wesolek, A., Lashley, J., & Langley, A. (Eds.). OER: A Field Guide for Academic Librarians, Pacific University Press.
-* Rigling, L. (in press). The Power of Open in Jackson, A., Pierard, C., & Schadl, S. (Eds.) Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work, Association of College and Research Libraries.
+* Rigling, L. (2019). [The Power of Open: Tools and Practices for Opening Up Student Work](https://osf.io/preprints/lissa/v6rjy/) in Jackson, A., Pierard, C., & Schadl, S. (Eds.) Scholarship in the Sandbox: Academic Libraries as Laboratories, Forums, and Archives for Student Work, Association of College and Research Libraries.
+* Rigling, L., & Cross, W. (2018). [Getting to Know You: How We Turned Community Knowledge](https://harvest.usask.ca/bitstream/handle/10388/11630/OER_%20A%20Field%20Guide%20for%20Academic%20Librarians.pdf?sequence=1#page=204) into Open Advocacy in Wesolek, A., Lashley, J., & Langley, A. (Eds.). OER: A Field Guide for Academic Librarians, Pacific University Press.
 
 ## Journal Articles
 * Rigling, L., Carlisle, E., & Waugh, C. (2018). [Applying design thinking to create an equitable library open access policy.](http://inthelibrarywiththeleadpipe.org/2018/oa-statement/) In the Library with the Lead Pipe
