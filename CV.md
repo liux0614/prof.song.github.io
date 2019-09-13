@@ -4,12 +4,16 @@ Layout: Page
 ---
 # Experience
 ## Education
+**Postgraduate Certificate**, Learning Design *University of Toronto School of Continuing Studies* `in progress`
+
 **Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
 
 **Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
-**Digital Access & OER Lead**, eCampusOntario `2019 - present`
+**Instructor: Introduction to OER**, Library Juice Academy, `2020 - present`
+
+**Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - present`
 
 **Program Coordinator**, eCampusOntario `2018 - 2019`
 
@@ -47,6 +51,8 @@ Layout: Page
 ## Professional Service
 #### National/International
 * **Canadian Association of Research Libraries**
+  * Open Education Working Group
+  * Open Education Librarian Leadership Planning Group
   * Strengthening Capacity Committee’s Core Competencies Working Group
 
 * **The Idealis**
@@ -97,6 +103,9 @@ Layout: Page
   * 2015 Copyright in Canada Conference, Organizing committee
 
 ## Additional Training
+* Agile Project Management: Global Knowledge Toronto
+* Google Analytics Masterclass: The Knowledge Academy
+* Creating Accessible Word/PDF Documents: Accessibility Ontario
 * Creative Commons Certificate (Beta): Creative Commons  
 * Automate the Boring Stuff with Python: Udemy
 * A Crash Course in Data Science: Johns Hopkins University on Coursera
