@@ -7,6 +7,8 @@ layout: page
 
 ## Presentations 
 ##### 2019
+* Open Content Deserves Open Platforms: Principles & Practices for a Publicly-Owned Publishing Infrastructure, (Panelist), Wagstaff, S. Hogendoorn, L., Brown, A., & Wentworth, A. Library Publishing Forum, May 2019.
+* Moving Beyond the Pitch: Creating a Statemnet of Values for Open Practitioners, Hogendoorn L. & Versluis, A. OER19 Association for Learning Technology, April 2019.
 * Making Music, Uncovering Copyright, Hogendoorn, L., Groth, J.E., & Cross, W. Association of College and Research Libraries 2019, April 2019.
 * From Open Education to Social Justice: Making the Leap, (Panelist) Brander, L., Hogendoorn, L., Daniels, C., & Tucker, A. Ontario Library Association Superconference 2019, January 2019.
 
@@ -38,6 +40,7 @@ layout: page
 * Zero to Low Cost Course Pilot Project: Increasing Access to Course Materials through Library Services  - Rigling, L., & Pietropaolo-DeMarco, T. Toronto Ryerson York Library Staff Conference, May 2015 (Poster).
 
 ## Invited Talks and Workshops
+* [Working Towards Open, Working for You](https://lillian-hogendoorn.info/blog/2019/03/07/working-towards-open/), Hogendoorn, L., Keynote, Brock Open Education Day, Brock University, March 2019
 * [Building Community, Building Capacity](https://vimeo.com/277386214) (webinar), Belt and Road International Community for Open Educational Resources (BRICOER) Open Education Learning Week,  Bejing Normal University, June 2018
 * Drafting Scholarly Communication Learning Objectives using Design Thinking, Open Textbook of Scholarly Communication Librarianship Unconference, April 2018.
 * Finding and Evaluating Open Educational Resources, Open Education Day at Western, November 2017
@@ -51,6 +54,7 @@ layout: page
 * What Faculty Need to Know about Copyright & Publishing. Faculty Writing Retreat, NCSU Office of Faculty Development, October 2016
 
 ## Teaching Experience
+* [Introduction to OER](http://libraryjuiceacademy.com/147-oer.php)- Hogendoorn, L. - Library Juice Academy, 2020
 * [The Basics and Beyond: Developing a Critical, Community-Based Approach to Open Education](https://docs.google.com/document/d/1LCDrftjev4VSPY0V3lD6OGkD_GGwgqMYiktKsCaN7qc/edit#heading=h.3e8s92ceglc) (5 day core course) - Hare, S., Rigling, L., & Versluis, A. - Force11 Scholarly Communications Institute, July- August 2018
 * [Opening the Sandbox: Supporting Student Research as a Gateway to Open Practice](https://docs.google.com/document/d/1G6oaX5xe3rDX2_CzHtgCAsEC7wRE7vNzJr2QArQDaz4/edit#heading=h.30j0zll) (2 day elective course) - Cross, W., Waller, M., & Rigling, L. - Force11 Scholarly Communications Institute, July-August 2017
 * [Applying Design Thinking and User Research to the Scholarly Communication Problem Space](https://docs.google.com/document/d/1QA9CJuv3VGCUaawM02NCPFxbYJIlN5HD5ixTqMg5Q78/edit) (2 day elective course) - Grguric, E., Rigling, L., & Cross, W. - Force11 Scholarly Communications Institute, July-August 2017
