@@ -19,7 +19,7 @@ Let me first say this: I love the Open community.
 It started in a line for pizza at OpenCon 2016. I knew I liked doing the work (but c’mon, who doesn’t like reviewing a publishing agreement to help an author self-archive their work?) but I didn’t know yet how much I would love the people. But standing in a line at American University, trying to figure out if drinks were free or if there was a cash bar and if I even had cash for tip let alone a beer and also trying to make small talk with strangers I met two people who changed my life personally and professionally.
 
 ![Ali Versluis, Sarah Hare, and myself on the beach in San Diego](https://miro.medium.com/max/7262/1*gYCPQWK6ieLVqZPymCp1dg.jpeg)
-*Feeling my warm fuzzies with my open buddies, August 2018
+*Feeling my warm fuzzies with my open buddies, August 2018*
 
 [Sarah Hare](https://twitter.com/SarahEHare) and [Ali Versluis](https://twitter.com/aliversluis) (two people who, if you do not know already, you might want to check out) are only two of the many folx working in Open that rocked my world at that conference, and over the past three years I have met and continue to meet people who embody the spirit of the open community and who in turn open my mind and change my perspective. People are generally warm and accepting and sometimes even aggressively helpful in ways I didn’t know I needed.
 
