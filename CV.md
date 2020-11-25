@@ -4,16 +4,17 @@ Layout: Page
 ---
 # Experience
 ## Education
-**Postgraduate Certificate**, Learning Design *University of Toronto School of Continuing Studies* `in progress`
+**Postgraduate Certificate**, Learning Design *University of Toronto School of Continuing Studies* `2020`
 
 **Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
 
 **Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
+**Manager, Digital Access and Open Educational Resources**, eCampusOntario, `2020 - present`
 **Instructor: Introduction to OER**, Library Juice Academy, `2020 - present`
 
-**Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - present`
+**Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - 2020`
 
 **Program Coordinator**, eCampusOntario `2018 - 2019`
 
@@ -30,8 +31,6 @@ Layout: Page
 * Scholarly Communications and Copyright Office, Office of the Chief Librarian
 
 **Access and Information Services SLA**, University of Toronto Libraries `2013 - 2015`
-
-**Hiring and Training Supervisor**, University of Toronto Telefund `2012 - 2013`
 
 ## Grants, Scholarships, & Awards
 `2018` Diversity, Equity, and Inclusion Scholarship, Open Textbook of Scholarly Communication Librarianship Unconference - SPARC/ACRL
@@ -51,7 +50,7 @@ Layout: Page
 ## Professional Service
 #### National/International
 * **Canadian Association of Research Libraries**
-  * Open Education Working Group
+  * Open Education Working Group (ex-officio)
   * Open Education Librarian Leadership Planning Group
   * Strengthening Capacity Committee’s Core Competencies Working Group
 
