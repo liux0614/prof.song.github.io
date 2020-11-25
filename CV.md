@@ -12,6 +12,7 @@ Layout: Page
 
 ## Employment
 **Manager, Digital Access and Open Educational Resources**, eCampusOntario, `2020 - present`
+
 **Instructor: Introduction to OER**, Library Juice Academy, `2020 - present`
 
 **Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - 2020`
