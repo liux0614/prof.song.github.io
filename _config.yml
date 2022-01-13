@@ -1,6 +1,6 @@
 # main text of home
 name: Lillian Hogendoorn
-bio: Recovering librarian. Open enthusiast.
+bio: UX Librarianship, Critical Digital Practice, Openness, and other things on the Internet.
 
 # twitter summary info
 description: All about Lillian Hogendoorn.
@@ -57,10 +57,10 @@ googlescholar: tYixcicAAAAJ&hl=en
 authors:
     lillianhogendoorn:
         name: Lillian Hogendoorn
-        bio: Recovering Librarian. Open Education Enthusiast
+        bio: UX Librarianship, Critical Digital Practice, Openness, and other things on the Internet.
         external-image: false
         picture: assets/images/0058.jpg
-        twitter: lilyrglg
+        twitter: l_hogendoorn
    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
