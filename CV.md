@@ -11,9 +11,11 @@ Layout: Page
 **Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
 
 ## Employment
-**Manager, Digital Access and Open Educational Resources**, eCampusOntario, `2020 - present`
+**Curator of Digital Experience (Librarian)**, University of Toronto Libraries, `2021 - present`
 
-**Instructor: Introduction to OER**, Library Juice Academy, `2020 - present`
+**Manager, Digital Access and Open Educational Resources**, eCampusOntario, `2020 - 2021`
+
+**Instructor: Introduction to OER**, Library Juice Academy, `2020 - 2021`
 
 **Digital Access & Open Educational Resources Lead**, eCampusOntario `2019 - 2020`
 
