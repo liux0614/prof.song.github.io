@@ -1,3 +1,4 @@
+---
 title: "Statement of User Design Philosophy: Reflections"
 layout: post
 date: 2023-01-26 9:00
@@ -19,3 +20,14 @@ The feedback loop is completed by sharing back with users and staff. This may ta
 Creating an open feedback loop may still unintentionally exclude some user groups who have traditionally been overlooked. Seeking out the feedback of these user groups in a more systematic way is possible by building relationships with stakeholders who have deeper knowledge of or access to these groups. For example, creating a strong relationship with the accessibility office and running focus groups through their office may provide additional insight that could not be observed through other channels. 
 
 Ultimately, designing for all users is an iterative process that not only requires constant enhancement of the site itself, but also requires consistent reflection and improvement of our own framework for design. 
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-87286945-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
