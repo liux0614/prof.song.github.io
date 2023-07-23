@@ -1,14 +1,14 @@
 # main text of home
-name: Lillian Hogendoorn
-bio: UX Librarianship, Critical Digital Practice, Openness, and other things on the Internet.
+name: Qianqian Song
+bio: Assistant Professor <br /> Bioinformatics, Cancer Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
 
 # twitter summary info
-description: All about Lillian Hogendoorn.
+description: All about Qianqian Song.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/0058.jpg
+picture: assets/images/Qianqian_Song.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: true
 resume-external: false
 resume-url: CV
 
-url: https://lillian-hogendoorn.info
+url: https://github.com/QSong-github
 # your url: http://USERNAME.github.io
 
 permalink: pretty
@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: l_hogendoorn
+twitter: Sophie_QSong
 # google: mygoogle
-instagram: l_hogendoorn
+# instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: qianqian-song-4501b56b
 # youtube: myyoutube
 # spotify: myspotify
-github: lillian-rigling
+github: QSong-github
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,16 +51,18 @@ github: lillian-rigling
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: lillian.hogendoorn@gmail.com
-orcid: 0000-0002-9178-0422
-googlescholar: tYixcicAAAAJ&hl=en
+email: qianqian.song.66@gmail.com
+googlescholar: wIYviKIAAAAJ
+# orcid: 0000-0002-4662-4615
+
+
 authors:
-    lillianhogendoorn:
-        name: Lillian Hogendoorn
-        bio: UX Librarianship, Critical Digital Practice, Openness, and other things on the Internet.
+    Qianqian_Song:
+        name: Qianqian Song
+        bio: Assistant Professor <br /> Bioinformatics, Cancer Informatics <br /> Department of Health Outcomes and Biomedical Informatics <br /> College of Medicine, University of Florida
         external-image: false
-        picture: assets/images/0058.jpg
-        twitter: l_hogendoorn
+        picture: assets/images/Qianqian_Song.jpg
+        twitter: Sophie_QSong
    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

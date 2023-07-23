@@ -4,11 +4,17 @@ Layout: Page
 ---
 # Experience
 ## Education
-**Postgraduate Certificate**, Learning Design *University of Toronto School of Continuing Studies* `2020`
+**Ph.D.**, Applied Mathematics *Wake Forest University* `2015 – 2017 (Advisor: Dr. Xiaobo Zhou)` <br />
+           &emsp;&emsp;&emsp;&emsp; Bioinformatics and computational systems biology 
+          
+**Ph.D.** Applied Mathematics *Beijing Normal University* `2014 – 2017 (Advisor: Dr. Jiguang Bao)` <br />
+          &emsp;&emsp;&emsp;&emsp;Algorithm design with partial differential equations <br />
+          &emsp;&emsp;&emsp;&emsp;Thesis: “Pan-cancer alternative polyadenylation identification and biomarker discovery”
 
-**Master of Information**, Library & Information Science *University of Toronto Faculty of Information* `2016`
+**M.S.**, Applied Mathematics *Beijing Normal University* `2011 – 2014`
 
-**Honours Bachelor of Arts**, English, Writing & Rhetoric *University of Toronto Faculty of Arts & Science* `2014`
+**B.S.**, Applied Mathematics *Beijing Normal University* `2007 – 2011`
+
 
 ## Employment
 **Curator of Digital Experience (Librarian)**, University of Toronto Libraries, `2021 - present`
